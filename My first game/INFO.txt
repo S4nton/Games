@@ -1,0 +1,7 @@
+PosForBag
+x = 5.78
+y = 1.32
+
+PosForStone
+x = 22.83
+y = 5.56
