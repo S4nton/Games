@@ -1,4 +1,8 @@
-This is my first game that I worked with friends as a project in the 10th grade. In the team, I held the position of a programmer.
+This is my first game that I worked on with friends as a project in the 10th grade. 
++ Position in the team: Programmer
++ Language: C#
++ Development environment: Unity
+ 
 *Unfortunately, the source codes have not been preserved.
 
 
