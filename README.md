@@ -1,4 +1,4 @@
-This is my first game that I worked on with friends as a project in the 10th grade. 
+This is **MY FIRST GAME** that I worked on with friends as a project in the 10th grade. 
 + Position in the team: **Programmer**
 + Language: **C#**
 + Development environment: **Unity**
